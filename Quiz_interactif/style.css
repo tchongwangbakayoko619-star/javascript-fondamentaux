@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.quiz{
+    background: white;
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+button{
+    display: block;
+    width: 200px;
+    margin: 10px auto;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#resultat{
+    margin-top: 20px;
+}

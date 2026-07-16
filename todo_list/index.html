@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Ma To-Do List</title>
+
+    <style>
+        body{
+            font-family: Arial;
+        }
+
+        .termine{
+            text-decoration: line-through;
+            color: gray;
+        }
+
+        .btnSupprimer{
+            margin-left: 10px;
+            background: red;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Ma Liste</h2>
+
+<input type="text" id="tache">
+<button onclick="ajouterTache()">Ajouter</button>
+
+<ul id="liste"></ul>
+
+<script src="script.js"></script>
+
+</body>
+</html>
