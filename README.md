@@ -69,6 +69,6 @@ Ce projet permet de mettre en pratique :
 
 ## Auteur
 
-Nom : Votre nom
+Nom :Tchongwang Bakayoko
 
-GitHub : https://github.com/votre-utilisateur# javascript-fondamentaux
+GitHub : https://github.com/tchongwangbakayoko619-star/
